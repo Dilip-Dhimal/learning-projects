@@ -3,9 +3,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get/get.dart';
 import 'package:podsriver/constants/colors.dart';
 import 'package:podsriver/provider/home_screen.dart';
-import 'package:podsriver/views/home_page.dart';
-
-
 
 
 void main () async{
